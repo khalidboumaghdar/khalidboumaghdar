@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full Stack Developer | Java | Angular | Spring Boot</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&background=00000000&width=500&lines=👨‍💻+Building+Modern+Web+Apps;🚀+Java+%7C+Angular+%7C+Spring+Boot" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&background=00000000&width=500&lines=%F0%9F%91%A8%F0%9F%92%BB+Building+Modern+Web+Apps;%F0%9F%9A%80+Java+%7C+Angular+%7C+Spring+Boot" alt="Typing Animation" />
 </p>
 
 ---
