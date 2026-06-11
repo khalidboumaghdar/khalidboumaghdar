@@ -27,7 +27,7 @@ I’m currently **studying at 1337 Rabat** and looking for opportunities to cont
 
 ### 🌐 Portfolio
 <p align="center">
-  <a href="https://khalidboumaghdar.netlify.app/" target="_blank">
+  <a href="https://khalidboumaghdar-theta.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/💼%20Portfolio-Visit-blue?style=for-the-badge&logo=netlify" alt="Portfolio" />
   </a>
 </p>
